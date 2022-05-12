@@ -6,5 +6,4 @@ int main(){
     int result = numberone/numbertwo;
     printf("%d\n", result);
 }
-
-
+//Good Tanya 
