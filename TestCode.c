@@ -1,6 +1,10 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hello World!");
+    int numberone = 244;
+    int numbertwo = 2;
+    int result = numberone/numbertwo;
+    printf("%d\n", result);
 }
-//God job
+
+
